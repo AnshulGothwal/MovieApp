@@ -586,12 +586,6 @@ display:block;
         font-size:13px;
     }
 
-    #hamburger{
-
-        width:22px;
-        height:22px;
-    }
-
     .hero-section{
 
         height:35vh;
@@ -600,12 +594,12 @@ display:block;
     .hero-content{
 
         width:50%;
-        height:35%;
+        height:45%;
 
         left:50%;
         transform:translateX(-50%);
 
-        bottom:25%;
+        bottom:30%;
     }
 
     .hero-content h1{
