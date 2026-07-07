@@ -1,0 +1,276 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "John Wick",
+      "year": 2014,
+      "rating": 7.4,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3G3zC9feTJvs-Q5_xsAo2VNqrMOLBv1NrlgKJPz2MrbUi_jSzNaQc58xx8MVXI5J-7UE_A&s=10",
+      "Category":"Action"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGW7C6dkLMzUE-wYDb0t-Ze6UkSQlRzbkHdFbeuqJDeXCglJqSHLx52z2--O6a-gipTe5aIg&s=10",
+      "Category":"Sci-Fi"
+    },
+    {
+      "id": 3,
+      "title": "Batman",
+      "year": 2022,
+      "rating": 8.2,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEbpjjCNPa4KAbBIilwkn_xY4KkpOh8sKU_ZWf9HFJ-Z1MpsuslkAFOk&s=10",
+      "Category":"Fantasy"
+    },
+    {
+      "id": 4,
+      "title": "Avengers",
+      "year": 2012,
+      "rating": 8.1,
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqse_XSnkijWzY_FQrPgTiclx516ebb8npng8GBgTGiUBtJdth",
+      "Category":"Fantasy"
+    },
+    {
+      "id": 5,
+      "title": "Shutter Island",
+      "year": 2010,
+      "rating": 8.2,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwWwCuEgXADvhRRbCmC7ZlWYEcrw7zzN0L2MhQdg0FKw&s=10",
+      "Category":"Sci-Fi"
+    },
+    {
+      "id": 6,
+      "title": "Train to Busan",
+      "year": 2016,
+      "rating": 7.6,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoc8-jxnrlxuIxBt5SZlqDfDoJivrVmHF9Ivn2OhBww&s=10",
+      "Category":"Thriller"
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVuG4shYHD2DvS2NPLq5bRfRCrzWOGBXaIYhzddEE_Q&s=10",
+      "Category":"Action"
+    },
+    {
+      "id": 8,
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "poster": "https://play-lh.googleusercontent.com/buKf27Hxendp3tLNpNtP3E-amP0o4yYV-SGKyS2u-Y3GdGRTyfNCIT5WAVs2OudOz6so5K1jtYdAUKI9nw8",
+      "Category":"Sci-Fi"
+    },
+    {
+      "id": 9,
+      "title": "Spider-Man",
+      "year": 2002,
+      "rating": 7.3,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQbhuCdh1mhOrKsn5eSzuRBj2Jdktdi8sdNzsWYTk4w&s=10",
+      "Category":"Fantasy"
+    },
+    {
+      "id": 10,
+      "title": "The Hulk",
+      "year": 2008,
+      "rating": 6.6,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f0/The_Incredible_Hulk_%28film%29_poster.jpg",
+      "Category":"Fantasy"
+    },
+    {
+      "id": 12,
+      "title": "Terminator",
+      "year": 1984,
+      "rating": 8.1,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-Mu_xe47HPLqNj1AJS1-qn3yyfCB1Je3GpQpvuwOuA&s=10",
+      "Category":"Thriller"
+    },
+    {
+      "id": 13,
+      "title": "Godzilla",
+      "year": 1998,
+      "rating": 6.4,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvbQ6DJqjlnNLk0wGujpy8GVj7DYAcccnWmuRJCGSMHRGvc0PoRoVqlQf&s=10",
+      "Category":"Thriller"
+    }
+    
+  ],
+ 
+"series": [
+    { "id": 14,
+      "title": "Dark",
+      "year": 2017,
+      "rating": 8.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZCkTLLBK3hUQG0e8qEqrXgZnDQByph44KrziGYb71A&s=10",
+      "Category":"Sci-Fi"
+    },
+    { "id": 15,
+      "title": "Stranger Things",
+      "year": 2016,
+      "rating": 8.7,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFjadYKCdJrJz37NBXNDeZ4qwe3jsdsfnnQ11WiYhAPLmTHw1vFF3owY&s=10",
+      "Category":"Fantasy"
+    },
+    {  "id": 16,
+      "title": "Squid Game",
+      "year": 2019,
+      "rating": 8.2,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_avQkMx1rvxxCs9ECmQqjaD0Kusm6L3DiivnZJtQT-g&s=10",
+      "Category":"Thriller"
+    },
+     {
+    "id":17,
+    "title":"One Piece",
+    "year":2023,
+    "rating":8.3,
+    "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIg_WH2lC4S6b-2c-_qWqNW2nvp_ZL2BCHiTF89Q5U8KzdbjQtodfrArwr5_AsOFV55h5&s=10",
+    "Category":"Fantasy"
+  },
+    {  "id": 18,
+      "title": "Breaking Bad",
+      "year": 2008,
+      "rating": 9.5,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptkDQDYGx4R0IVXIkke3FzuuqHXtkaUFoL1o9-tZDew&s=10",
+      "Category":"Action"
+    },
+    {"id": 19,
+      "title":"Borderland",
+      "year": 2020,
+      "rating": 7.7,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5dxoztYWOqIXHu51ISFB_cfWpBUDdp7oDGLiNkrm1yioLPI_mj5m5OI&s=10",
+      "Category":"Fantasy"
+    },
+    {"id": 20,
+      "title":"Tangerines",
+      "year": 2025,
+      "rating": 9.1,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-V1PNLYqoEzrGxBBWonIz0NBk_G4pT-2ubJ2P8qtgw&s=10",
+      "Category":"Drama"
+    },
+    {"id":21,
+    "title":"All of us are dead",
+    "year": 2022,   
+    "rating": 7.4,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/All_of_Us_Are_Dead.jpeg/250px-All_of_Us_Are_Dead.jpeg",
+    "Category":"Thriller"
+  },
+  {"id":22,
+    "title":"Bloodhounds",
+    "year": 2023,   
+    "rating": 7.1,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7gcJcZee5IiXU2e09eaQG5AauHkO5ef9M8j_EMOq6MbwElebvForzygOH&s=10",
+    "Category":"Action"
+  },
+  {"id":23,
+  "title":"Chernobyl",
+  "year": 2019,
+  "rating": 9.4,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_5lDzNd9QFcSFOjsW86Jl1HWvi4pfvwDqh_LchAT8l4u-rQ9eWulrJY5&s=10",
+  "Category":"Sci-Fi"
+  
+},
+  {"id":24,
+  "title":"Weak hero",
+  "year": 2022,
+  "rating": 8.1,
+  "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdutCLxbnQ9LIZi8eabtES-aNKSSJnhK0dnpt530ZtKlUfU1Q3vMyCqgov&s=10",
+  "Category":"Action"  
+},
+  {"id":25,
+  "title":"Teach U Lesson",
+  "year":2026,
+  "rating":8.5,
+  "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGMBDqKfk7q0JEuVEWPQjPuWvRCtKUugkmVLFCtWbN765LLm2_9d-RYE&s=10",
+  "Category":"Fantasy"
+  }
+  ],
+  "anime": [
+    { "id": 26,
+      "title": "Demon Slayer",
+      "year": 2019,
+      "rating": 8.6,
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLjqIxUHlDBQnYFt_2fzgcsWSOoz7viayiAOs5hgaqrEhKoHBM",
+      "Category":"Action"
+    },
+    { "id":27,
+      "title":"Jujutsu",
+      "year":2020,
+      "rating":8.5,
+      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPaS5RyGmBuMRKAWvbKox-wYy0XzTP0OK0RV8xHiIlEj8mLcLuZwuPKUsTJgJkdXSBxAE&s=10",
+      "Category":"Action"
+    },
+    { "id": 28,
+      "title":"A.O.T",
+      "year": 2013,
+      "rating":9.1,
+      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVLwmeJQBHNxGE8AMaCGWQLWoCUZMFJvuJy0nKdDfSnSXITF69Ivwb1qqnZNgyloaCKPo&s=10",
+      "Category":"Action"
+    },
+    { "id":29,
+      "title":"Vinland Saga",
+      "year":2019,
+      "rating":8.9,
+      "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYjLSrB31aVvik3mfbRBI7fpVJsU--4jcfYUK_NOVvUQ5ZuvwF9z00HbbI3KGVxQ72rcr1A&s=10",
+      "Category":"Drama"
+    },
+    {"id":30,
+     "title":"Spy Family",
+     "year":2022,
+     "rating": 8.2,
+     "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSffdMWr0RZtEnTQHJf4nBikTdetP_IDH3829U4xbV7wFL0V10fWHJPS3nZLkALyAJMTOJYaA&s=10",
+     "Category":"Drama"
+    },
+    {"id":31,
+     "title":"Re:Zero",
+     "year":2016,
+     "rating":8.1,
+     "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GXnJH33t-Oulvgw2hTqRdzOv0OZh9FZu-tB6G-iPeih6bV_gaIy56MIiqCaRDmoaKWwVyw&s=10",
+     "Category":"Fantasy"
+  },
+  {"id":32,
+  "title":"Solo Leveling",
+  "year": 2024,
+  "rating": 9.5,
+  "poster":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHBzNAPQQdfflPRC3RGd3BhXD7RkVtnoLxPRWo9GqjM5u1Cya0",
+  "Category":"Thriller"
+  },
+  {"id":33,
+   "title":"One Piece",
+   "year": 1999,
+   "rating":9.0,
+   "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9jE_EFTPZDKlIi4wqa_8RpIBMisghQANpCccxROtYQ&s=10",
+   "Category":"Drama"
+  },
+  {"id":34,
+    "title":"Bleach",
+    "year": 2004,
+    "rating": 8.2,
+    "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFoAQlCctjVgiwC93IUdDPCcVW54shdFT6TCxmB1zszD07LNyOIKJiSaw&s=10",
+    "Category":"Fantasy"
+  },
+  {"id":"35",
+    "title": "Naruto",
+    "year":2002,
+    "rating": 8.0,
+    "poster":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDLAATjBAXkUB7--nR30wzLXHA7GnQros5K315nCOahNX0QKNh",
+    "Category":"Action"
+  },
+  {"id":"36",
+    "title": "Death Note",
+    "year": 2003,
+    "rating": 8.9,
+    "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_gAyNUAE6sZF7qGe8aWcYwRREtcmozSIvTUYQ1ppbQ&s=10",
+    "Category":"Thriller"
+  },
+  {"id":"37",
+  "title":"Blue Lock",
+   "year":2022,
+   "rating": 8.1,
+   "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiDmRkCjrsquzFMHlZJctuFbjsxeWO30UTQG7odGYp1HXNkgVJ5v76kU0&s=10",
+   "Category":"Drama"
+  }
+  ]
+}  

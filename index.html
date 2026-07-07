@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVIE APP</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+   <nav class="navbar">
+    <div class="movienav"><i class="fa-solid fa-film"></i>
+    <h2>MovieFlix</h2>
+    </div>
+    <ul class="nav-links">
+        <li><a href="#hero">Home</a></li>
+        <li><a href="#movies">Movies</a></li>
+        <li><a href="#web">Series</a></li>
+        <li><a href="#anime">Anime</a></li>
+
+    </ul>
+    <div class="btn-cls">
+        <button class="search-btn">🔍</button>
+    <input id="search" type="text" placeholder="Search for movies...">
+    </div>
+    <div class="menu">
+    <button id="themeBtn">🌙</button>
+    <!-- <button id="hamburger">☰</button> -->
+
+
+    <!-- <div id="menu-items">
+
+        <a href="#">Login</a>
+
+        <a href="#">Signup</a>
+    </div> -->
+</div>
+</nav>
+
+<div id="hero" class="hero-section">
+
+    <div class="hero-content">
+
+        <h1>🎬 MovieFlix Originals</h1>
+
+        <p>
+        Watch the latest movies and TV shows
+        anytime, anywhere.....</p>
+
+        <button>▶ Watch Now</button>
+
+    </div>
+    <!-- carousal data -->
+  <button onclick="changeSlide(-1)" class="prev">
+    <i  class="fa-solid fa-chevron-left"></i>
+    </button>
+
+    <button onclick="changeSlide(+1)" class="next">
+    <i class="fa-solid fa-chevron-right"></i>
+    </button>
+</div>
+
+
+<nav class="bottom-nav">
+    <a href="#hero">Home</a>
+    <a href="#movies">Movies</a>
+    <a href="#web">Series</a>
+    <a href="#anime">Anime</a>
+
+
+</nav>
+<div class="popular-movies">
+<div class="popularwala">
+Popular Movies
+</div>
+
+<div class="genre" style="color: rgb(255, 255, 255);padding-right:5px">
+
+    <select required id="movieGenreFilter" class="filter">
+    <option>All Genres</option>
+    <option>Action</option>
+    <option>Drama</option>
+    <option>Fantasy</option>
+    <option>Sci-Fi</option>
+    <option>Thriller</option>
+</select>
+
+    <select required id="movieSortFilter" class="filter">
+    <option>Sort by</option>
+    <option>High rated</option>
+    <option>Most Popular</option>
+    <option>Newest</option>
+    <option>Oldest</option>
+    </select>
+</div>
+</div>
+
+<div id="movies"> 
+    <!-- movie cards will be dynamically inserted here -->
+</div>
+
+
+<div class="popular-movies">
+<div class="popularwala">
+Popular Series
+</div>
+<div class="genre" style="color: rgb(255, 255, 255);padding-right:5px">
+
+    <select required id="seriesGenreFilter" class="filter">
+    <option>All Genres</option>
+    <option>Action</option>
+    <option>Drama</option>
+    <option>Fantasy</option>
+    <option>Sci-Fi</option>
+    <option>Thriller</option>
+    </select>
+
+
+
+    <select required id="seriesSortFilter" class="filter">
+    <option>Sort by</option>
+    <option>High rated</option>
+    <option>Most Popular</option>
+    <option>Newest</option>
+    <option>Oldest</option>
+    </select>
+</div>
+</div>
+<div id="web"> 
+    <!-- series cards will be dynamically inserted here -->
+</div>
+
+
+<!-- anime -->
+<div class="popular-movies">
+<div class="popularwala">
+Popular Animes
+</div>
+<div class="genre" style="color: rgb(255, 255, 255);padding-right:5px">
+
+    <select required id="animeGenreFilter" class="filter">
+    <option>All Genres</option>
+    <option>Action</option>
+    <option>Drama</option>
+    <option>Fantasy</option>
+    <option>Sci-Fi</option>
+    <option>Thriller</option>
+    </select>
+
+
+
+    <select required id="animeSortFilter" class="filter">
+    <option>Sort by</option>
+    <option>High rated</option>
+    <option>Most Popular</option>
+    <option>Newest</option>
+    <option>Oldest</option>
+    </select>
+</div>
+</div>
+<div id="anime"> 
+    <!-- Anime cards will be dynamically inserted here -->
+</div>
+
+
+
+
+<script src="script.js"></script>
+</body>
+</html>
